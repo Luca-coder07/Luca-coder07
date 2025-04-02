@@ -4,7 +4,7 @@ Loading...
 
 ■■■■■■■■□□□□□□   60%
 
-<img src="https://github.com/Luca-coder07/Luca-coder07/blob/main/fantasy.jpg" alt="Description de l'image" style="border-radius: 15px;">
+<img src="https://github.com/Luca-coder07/Luca-coder07/blob/main/fantasy.jpg" alt="Description de l'image" width="200" height="150" style="border-radius: 15px;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lahatriniaina-luca-randrianirina-06845b328)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/Luca-coder07)
