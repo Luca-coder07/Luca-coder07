@@ -1,12 +1,10 @@
-Hi, I’m @Luca-coder07 👋
+Hi, I’m Luca 👋
 
 Loading...
 
-■■■■■■■■□□□□□□
+■■■■■■■■□□□□□□   60%
 
-60%
-
-<!---
-Luca-coder07/Luca-coder07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/your-twitter-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/Luca-coder07)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome)](https://your-website.com)
