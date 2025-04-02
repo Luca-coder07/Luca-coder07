@@ -1,8 +1,7 @@
 Hi, I’m Luca 👋
 
-Loading...
-
-■■■■■■■■□□□□□□   60%
+> Loading... <br>
+> ■■■■■■■■□□□□□□   60%
 
 <img src="https://github.com/Luca-coder07/Luca-coder07/blob/main/fantasy.jpg" alt="Description de l'image" width="600" height="400">
 
