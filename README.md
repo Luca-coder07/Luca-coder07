@@ -4,7 +4,12 @@ Loading...
 
 ■■■■■■■■□□□□□□   60%
 
-<img src="https://github.com/Luca-coder07/Luca-coder07/blob/main/fantasy.jpg" alt="Description de l'image" width="600" height="400" style="border-radius: 15px;">
+<style>
+    .hover-effect:hover {
+        filter: brightness(1.2);
+    }
+</style>
+<img src="https://github.com/Luca-coder07/Luca-coder07/blob/main/fantasy.jpg" alt="Description de l'image" width="600" height="400" style="border-radius: 15px;" class="hover-effect">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lahatriniaina-luca-randrianirina-06845b328)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/Luca-coder07)
