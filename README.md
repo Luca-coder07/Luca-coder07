@@ -10,6 +10,7 @@ Hi, I’m Luca 👋
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:lucarandrianirina2507@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=flat&logo=facebook)](https://www.facebook.com/lucka.randria.5)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luca-coder07&theme=react)
 <!--![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca-coder07&show_icons=true&theme=radical)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca-coder07&layout=compact&theme=radical)
 ![Snake animation](https://github.com/Luca-coder07/Luca-coder07/blob/output/github-contribution-grid-snake.svg)
