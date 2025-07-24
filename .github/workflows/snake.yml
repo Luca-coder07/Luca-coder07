@@ -21,20 +21,17 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push the generated files
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "Generate snake animation"
-          add: "dist/*.svg"
+      - name: Show files
+        run: ls -l dist
 
-      - name: Publish to the 'output' branch
+      - name: Push to output branch
         run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
           git fetch
           git switch --orphan output
-          git rm -rf .
+          rm -rf *
           cp dist/* .
-          git add .
-          git commit -m "update snake animation"
+          git add *.svg
+          git commit -m "Update snake animation"
           git push -f origin output
