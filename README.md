@@ -3,11 +3,6 @@ Hi, I’m Luca 👋
 > Loading... <br>
 > ■■■■■■■■□□□□□□   60%
 
-<p align="center">
-  <img src="https://github.com/Luca-coder07/Luca-coder07/blob/main/404.gif" alt="404 Error" width="125" height="125"/>
-</p>
-
-
 <img src="https://github.com/Luca-coder07/Luca-coder07/blob/main/fantasy.jpg" alt="fantasy image" width="600" height="350">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lahatriniaina-luca-randrianirina-06845b328)
