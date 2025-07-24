@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Tous les jours à minuit UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,17 +21,17 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Debug: contents of dist
-        run: ls -l dist || echo "No dist directory"
+      - name: Show files in dist
+        run: ls -l dist
 
-      - name: Push to output branch
+      - name: Push SVG to output branch
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git fetch
+          git fetch origin
           git switch --orphan output
           rm -rf *
-          cp dist/* .
-          git add *.svg || echo "No SVG to add"
-          git commit -m "Update snake animation" || echo "Nothing to commit"
+          cp dist/github-contribution-grid-snake.svg .
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update snake animation"
           git push -f origin output
