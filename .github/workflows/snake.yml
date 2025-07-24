@@ -21,8 +21,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Show files
-        run: ls -l dist
+      - name: Debug: contents of dist
+        run: ls -l dist || echo "No dist directory"
 
       - name: Push to output branch
         run: |
@@ -32,6 +32,6 @@ jobs:
           git switch --orphan output
           rm -rf *
           cp dist/* .
-          git add *.svg
-          git commit -m "Update snake animation"
+          git add *.svg || echo "No SVG to add"
+          git commit -m "Update snake animation" || echo "Nothing to commit"
           git push -f origin output
