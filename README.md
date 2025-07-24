@@ -4,7 +4,7 @@ Hi, I’m Luca 👋
 > ■■■■■■■■□□□□□□   60%
 
 <p align="center">
-  <img src="assets/404.gif" alt="Bienvenue sur mon profil !" width="300"/>
+  <img src="https://github.com/Luca-coder07/Luca-coder07/blob/main/404.gif" alt="404 Error" width="125" height="125"/>
 </p>
 
 <p align="center">
