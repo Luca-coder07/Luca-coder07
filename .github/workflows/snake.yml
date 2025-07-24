@@ -21,17 +21,19 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Show files in dist
-        run: ls -l dist
+      - name: Sauvegarder le SVG dans /tmp
+        run: |
+          mkdir -p /tmp/snake
+          cp dist/github-contribution-grid-snake.svg /tmp/snake/
 
-      - name: Push SVG to output branch
+      - name: Basculer sur output et publier le SVG
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git fetch origin
           git switch --orphan output
           rm -rf *
-          cp dist/github-contribution-grid-snake.svg .
+          cp /tmp/snake/github-contribution-grid-snake.svg .
           git add github-contribution-grid-snake.svg
           git commit -m "Update snake animation"
           git push -f origin output
