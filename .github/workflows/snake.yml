@@ -26,6 +26,10 @@ jobs:
           mkdir -p /tmp/snake
           cp dist/github-contribution-grid-snake.svg /tmp/snake/
 
+      - name: Stasher les changements locaux (si besoin)
+        run: |
+          git stash
+
       - name: Basculer sur output et publier le SVG
         run: |
           git config --global user.name 'github-actions'
@@ -37,3 +41,8 @@ jobs:
           git add github-contribution-grid-snake.svg
           git commit -m "Update snake animation"
           git push -f origin output
+
+      # Optionnellement, récupérer les changements stashés
+      - name: Appliquer les changements stashés (si besoin)
+        run: |
+          git stash pop || echo "Aucun changement à restaurer."
