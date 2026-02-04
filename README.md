@@ -8,8 +8,8 @@ Hi, I’m Luca RANDRIANIRINA 👋
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:lucarandrianirina2507@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=flat&logo=facebook)](https://www.facebook.com/lucka.randria.5)
 
-<!--![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca-coder07&show_icons=true&theme=radical)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca-coder07&layout=compact&theme=radical)
+![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca-coder07&show_icons=true&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca-coder07&layout=compact&theme=radical)-->
 ![Snake animation](https://github.com/Luca-coder07/Luca-coder07/blob/output/github-contribution-grid-snake.svg)
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Luca-coder07&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)-->
 <!--![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luca-coder07&theme=react-dark)-->
