@@ -9,9 +9,9 @@ Hi, I’m Luca RANDRIANIRINA 👋
 <!--![Snake animation](https://github.com/Luca-coder07/Luca-coder07/blob/output/github-contribution-grid-snake.svg)-->
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Luca-coder07&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luca-coder07&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luca-coder07&theme=github-compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Luca-coder07&layout=compact&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Luca-coder07&layout=compact&theme=github-compact)
 
 <h3>Tools</h3>
 <p> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
