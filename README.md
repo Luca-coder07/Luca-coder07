@@ -10,7 +10,7 @@ Hi, I’m Luca RANDRIANIRINA 👋
 <!--![Snake animation](https://github.com/Luca-coder07/Luca-coder07/blob/output/github-contribution-grid-snake.svg)-->
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Luca-coder07&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luca-coder07&repo=sotroy)](https://github.com/Luca-coder07/sotroy.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luca-coder07&repo=sotroy)](https://github.com/Luca-coder07/sotroy)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luca-coder07&theme=react-dark)
 
