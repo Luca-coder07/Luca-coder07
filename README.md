@@ -9,7 +9,7 @@ Hi, I’m Luca RANDRIANIRINA 👋
 <!--![Snake animation](https://github.com/Luca-coder07/Luca-coder07/blob/output/github-contribution-grid-snake.svg)-->
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Luca-coder07&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luca-coder07&theme=github-compact)
+<!--![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luca-coder07&theme=github-compact)-->
 
 <p align="left">
   <img align="center" src="https://github-readme-stats-six-chi-52.vercel.app/api/top-langs?username=Luca-coder07&compact=true&show_icons=true&locale=en&layout=compact&hide_border=true&exclude_repo=github-readme-stats,Luca-coder07.github.io&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,scss,less,php,batchfile&theme=vue-dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117" alt="Luca-coder07's most used languages" /> 
