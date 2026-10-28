@@ -1,4 +1,4 @@
-Hi, I’m Luca RANDRIANIRINA 👋
+Hi, I’m **Luca RANDRIANIRINA** 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lahatriniaina-luca-randrianirina-06845b328)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github)](https://github.com/Luca-coder07)
